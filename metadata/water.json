@@ -1,0 +1,33 @@
+{
+    "name": "Deflationary Dragon",
+    "symbol": "DD",
+    "description": "water dragon",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/water.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Water"
+     }
+    ],
+    "collection": {
+       "name": "Deflationary Dragons",
+       "family": "Deflationary Dragons" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/water.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "DXWhnCdoVM6zt1j4vhJg45Xhk4hYuc5qHBKyiXqqdWe8",
+          "share": 100
+        }
+      ]
+    }
+  }
