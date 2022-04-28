@@ -3,7 +3,7 @@
     "symbol": "DD",
     "description": "lightning dragon",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/lightning.png",
+    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/lightning.png",
     "edition": 1,
     "attributes": [
       {
@@ -18,7 +18,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/lightning.png",
+          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/lightning.png",
           "type": "image/jpeg"
         }
       ],

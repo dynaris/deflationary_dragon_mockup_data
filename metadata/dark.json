@@ -3,7 +3,7 @@
     "symbol": "DD",
     "description": "dark dragon",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/dark.png",
+    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/dark.png",
     "edition": 1,
     "attributes": [
       {
@@ -18,7 +18,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/dark.png",
+          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/dark.png",
           "type": "image/jpeg"
         }
       ],

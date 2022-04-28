@@ -3,7 +3,7 @@
     "symbol": "DD",
     "description": "earth dragon",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/earth.png",
+    "image": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/earth.png",
     "edition": 1,
     "attributes": [
       {
@@ -18,7 +18,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/main/image/earth.png",
+          "uri": "https://raw.githubusercontent.com/dynaris/deflationary_dragon_mockup_data/master/image/earth.png",
           "type": "image/jpeg"
         }
       ],
